@@ -51,12 +51,12 @@ div > p{
     box-shadow: inset 6px 6px 13px 0px  rgba(0, 0, 0, 0.562);
 }
 #estrofe-2{
-    background-image: url('pacote-d012/imagens/background001.jpg');
+    background-image: url('imagens/background001.jpg');
 
 
 }
 #estrofe-4{
-    background-image: url('pacote-d012/imagens/background002.jpg');
+    background-image: url('imagens/background002.jpg');
 }
 #estrofe-2 > p, #estrofe-4 > p{
     background-color: rgba(0, 0, 0, 0.507);
